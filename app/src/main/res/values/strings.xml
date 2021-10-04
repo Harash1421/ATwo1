@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ATwo1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="My_Location">My Location</string>
+    <string name="Find_My_Location">Find Location</string>
+    <string name="Open_Map">Open Map</string>
+</resources>
